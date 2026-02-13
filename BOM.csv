@@ -1,10 +1,10 @@
 ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price $,,links
-1,100nF,C1,C0402,1,0402X104M250CT,Walsin(华新科),LCSC,C3838494,100uds / 0.08,,link
-2,CONN-TH_2P-P5.08,"P1,P2",CONN-TH_2P-P5.08,2,,,LCSC,,0.03,,link
-3,BC548BTA,Q1,TO-92-3_L4.8-W3.7-P2.54-L,1,BC548BTA,onsemi(安森美),LCSC,C900801,0.52,,link
-4,4.7kΩ,R1,RES-TH_BD2.4-L6.3-P10.30-D0.6,1,RD 1/4W 4K7 J T/B A1,Tyohm(幸亚电阻),LCSC,C433716,4.47,,link
-5,1kΩ,R2,R0402,1,0402 ±5% 1K,VO(翔胜),LCSC,C2889347,1,,link
-6,10K,R3,POTENCIOMETRO10K,1,RK097111080J,ALPS,LCSC,C97444,2.11,,link
-7,NE555P,U1,DIP-8_L9.8-W6.6-P2.54-LS7.6-BL,1,NE555P,TI(德州仪器),LCSC,C46749,1.31,,link
-8,Filamento,- ,-,100g,-,-,eSUN PLA,-,12.99 / kg,,link
+1,100nF,C1,C0402,1,0402X104M250CT,Walsin(华新科),LCSC,C3838494,100uds / 0.08,,https://www.lcsc.com/product-detail/C1525.html?s_z=n_C0402
+2,CONN-TH_2P-P5.08,"P1,P2",CONN-TH_2P-P5.08,2,,,LCSC,,0.03,,https://www.lcsc.com/product-detail/C3337330.html?s_z=n_CONN-TH_2P-P5.08 
+3,BC548BTA,Q1,TO-92-3_L4.8-W3.7-P2.54-L,1,BC548BTA,onsemi(安森美),LCSC,C900801,0.52,,https://www.lcsc.com/product-detail/C2909889.html?s_z=n_TO-92-3_L4.8-W3.7-P2.54-L
+4,4.7kΩ,R1,RES-TH_BD2.4-L6.3-P10.30-D0.6,1,RD 1/4W 4K7 J T/B A1,Tyohm(幸亚电阻),LCSC,C433716,4.47,,https://www.lcsc.com/product-detail/C7304137.html?s_z=n_RES-TH_BD2.4-L6.3-P10.30-D0.6
+5,1kΩ,R2,R0402,1,0402 ±5% 1K,VO(翔胜),LCSC,C2889347,1,,https://www.lcsc.com/product-detail/C60490.html?s_z=n_R0402
+6,10K,R3,POTENCIOMETRO10K,1,RK097111080J,ALPS,LCSC,C97444,2.11,,https://www.lcsc.com/product-detail/C97444.html?s_z=n_RK097111080J
+7,NE555P,U1,DIP-8_L9.8-W6.6-P2.54-LS7.6-BL,1,NE555P,TI(德州仪器),LCSC,C46749,1.31,,https://www.lcsc.com/product-detail/C46749.html?s_z=n_NE555P
+8,Filamento,- ,-,100g,-,-,eSUN PLA,-,12.99 / kg,,https://www.amazon.es/eSUN-Filamento-Velocidad-Dimensional-Impresoras/dp/B0CR1CS3K8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4E1KYQSOKYRK&dib=eyJ2IjoiMSJ9.-qaNxCtBdXdz2uGxBAUb4CDVRSr6oJsIFl9zH0H_HHJZ0ApreJMIMmEVfMajHURZ1Jg_5xOzOvBMvNh8Q0w-Q1O-wW-rd6k1L06KkymMLXjZFs1YhF3XL5Ee28iJNOOC-jDsRfp7FqAqDNJ6T-ixQsZRdgAHLOvOMSNW4Eglx1nEqxDqD4yP4ihkw_PAiv4xzni2GRYtOC1859wkBG--p5txURyUNWBu_O-T1Yvr0sOoDiwYhz38GGgjX8UQhrZ2ukVgwWV6n5FYeL-wtJzpVCFs96C-HszJaFMmiRbS11U.YJoRyupfMFgciBOqYfairHgnT3ZJgpfT9W_I8-XlTlw&dib_tag=se&keywords=1kg+filamento+impresora+3d&qid=1770967433&sprefix=1kg+filamento+impresora+3d%C3%A7%2Caps%2C253&sr=8-6
 9,Shipping,- ,-,1,-,-,DHL Express,-,"21,5",,
