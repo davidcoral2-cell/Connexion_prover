@@ -31,6 +31,20 @@ The tester is powered via USB, making it easy to use with any compatible device 
 
 
 ## BOM
+
+## Bill of Materials
+
+| Component | Designator | Quantity | Supplier | Link |
+|-----------|------------|----------|----------|------|
+| 100nF Capacitor | C1 | 1 | LCSC | https://www.lcsc.com/product-detail/C1525.html |
+| 2P 5.08mm Terminal Connector | P1, P2 | 2 | LCSC | https://www.lcsc.com/product-detail/C3337330.html |
+| BC548BTA Transistor | Q1 | 1 | LCSC | https://www.lcsc.com/product-detail/C2909889.html |
+| 4.7kΩ Resistor | R1 | 1 | LCSC | https://www.lcsc.com/product-detail/C7304137.html |
+| 1kΩ Resistor | R2 | 1 | LCSC | https://www.lcsc.com/product-detail/C60490.html |
+| 10K Potentiometer | R3 | 1 | LCSC | https://www.lcsc.com/product-detail/C97444.html |
+| NE555P Timer IC | U1 | 1 | LCSC | https://www.lcsc.com/product-detail/C46749.html |
+
+
 total price: $42.63
 
 ## Features
